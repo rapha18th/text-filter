@@ -19,7 +19,7 @@ The premise of my solution is that the texts that Marry receives can be classifi
 Otherwise, returns “Unlabeled”
 - If no, returns “The sentence does not contain both the stem share and the word email”
 
-### Parts of Speech (POS) tags for used in the function
+### Parts of Speech (POS) tags used in the function
 - **VBD**: verb, past tense
 dipped pleaded swiped regummed soaked tidied convened halted registered
 cushioned exacted snubbed strode aimed adopted belied figgered
