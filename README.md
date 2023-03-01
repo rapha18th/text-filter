@@ -20,19 +20,19 @@ Otherwise, returns “Unlabeled”
 - If no, returns “The sentence does not contain both the stem share and the word email”
 
 ### Parts of Speech (POS) tags for used in the function
-- *VBD*: verb, past tense
+- **VBD**: verb, past tense
 dipped pleaded swiped regummed soaked tidied convened halted registered
 cushioned exacted snubbed strode aimed adopted belied figgered
 speculated wore appreciated contemplated etc
-- *VBN*: verb, past participle
+- **VBN**: verb, past participle
 multihulled dilapidated aerosolized chaired languished panelized used
 experimented flourished imitated reunifed factored condensed sheared
 unsettled primed dubbed desired etc
-- *VB*: verb, base form
+- **VB**: verb, base form
 ask assemble assess assign assume atone attention avoid bake balkanize
 bank begin behold believe bend benefit bevel beware bless boil bomb
 boost brace break bring broil brush build etc
-- *MD*: modal auxiliary
+- **MD**: modal auxiliary
 can cannot could couldn't dare may might must need ought shall should
 shouldn't will would etc
 
