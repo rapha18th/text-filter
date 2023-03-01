@@ -2,6 +2,7 @@
 
 ### To Run Locally
 `pip install nltk`
+
 `python demo.py`
 
 The premise of my solution is that the texts that Marry receives can be classified as past tense statements or questions. The code uses The Natural Language Toolkit (NLTK) is a Python package for natural language processing to achieve this.
