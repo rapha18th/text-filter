@@ -4,7 +4,7 @@
 `pip install nltk`
 `python demo.py`
 
-The premise of my solution is that the texts that Marry receives can be classified as past tense statements or questions.
+The premise of my solution is that the texts that Marry receives can be classified as past tense statements or questions. The code uses The Natural Language Toolkit (NLTK) is a Python package for natural language processing to achieve this.
 
 `demo.py` includes the function called `classify_text `that takes a text as an argument and returns a label based on some criteria. The function does the following steps:
 
